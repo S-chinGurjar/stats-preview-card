@@ -120,18 +120,22 @@ section{
         height:100%;
         border-radius:0 10px 10px 0;
     }
-    section{
-        width:75%;
-    }
 
     .about{
         margin-top:2rem;
+        text-align:left;
+        width:75%;
+    }
+    .about p {
+        width:90%;
     }
     .main-heading{
         width:100%;
+        font-size:1.3rem;
         margin-bottom:1rem;
     }
     .stats{
+        width:75%;
         display:flex;
         justify-content:space-between;
         margin-bottom:1.5rem;
