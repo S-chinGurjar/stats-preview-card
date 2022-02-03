@@ -135,7 +135,8 @@ section{
         margin-bottom:1rem;
     }
     .stats{
-        width:75%;
+        width:68%;
+        text-align:center;
         display:flex;
         justify-content:space-between;
         margin-bottom:1.5rem;
